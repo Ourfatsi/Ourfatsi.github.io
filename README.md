@@ -1,8 +1,6 @@
-## Banach method
+# Banach method
 
-### Remarks
-
-```markdown
+## Remarks
 
 ### Difficulties encountered in using Banach method, key pinpoints.
 
